@@ -7,6 +7,8 @@
 
 - 📄 Know about my experiences [https://xiangyuchiu.github.io/Resume.github.io/](https://xiangyuchiu.github.io/Resume.github.io/)
 
+- ⚡ Experience **IEC62443,OPCUA**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
